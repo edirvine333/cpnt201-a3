@@ -2,8 +2,8 @@
 
 Date:  February 16, 2021  
 
-Repository Link: [cpnt201-a3]()  
-GitHub Pages Link: [cpnt201-a3]()  
+Repository Link: [cpnt201-a3](https://github.com/edirvine333/cpnt201-a3)    
+GitHub Pages Link: [cpnt201-a3](https://edirvine333.github.io/cpnt201-a3/)    
 
 Repository Owner: Ed Irvine  
 Repository Maintainer: Ed Irvine    
