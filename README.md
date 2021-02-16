@@ -10,7 +10,8 @@ Repository Maintainer: Ed Irvine
 
 ## NOTES  
 
-1.  I put some creativity into my design and the switching colour schemes.  It is not exactly a logo that changes colour for a client, but some fun with screen sizing and some mock animation haha.    
+1.  Size the screen and watch the rocket ship take-off!!!
+2.  I put some creativity into my design and the switching colour schemes.  It is not exactly a logo that changes colour for a client, but some fun with screen sizing and some mock animation haha.  
 
 ## ATTRIBUTIONS  
 
